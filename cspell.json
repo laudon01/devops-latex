@@ -10,7 +10,11 @@
 
         "ignorePaths" :[],
         "language": "pl, en",
-        "words": []
-
-
+        "words": [
+            "Coruscant",
+            "Kairo",
+            "Sithowie",
+            "Sithami",
+            "Sithów"
+        ]
 }
