@@ -3,12 +3,12 @@
     "private": false,
     "packageManager": "yarn@1.22.22",
     "dependencies": {
-        "@cspell/dict-pl_pl": "^3.0.4",
-        "@cspell/dict-latex": "4.0.3",
-        "@cspell/dict-software-terms": "4.1.10",
+        "@cspell/dict-pl_pl": "^2.0.1",
+        "@cspell/dict-latex": "^2.0.9",
+        "@cspell/dict-software-terms": "2.2.12",
         "@cspell/dict-golang": "6.0.16",
         "@cspell/dict-python": "4.2.11",
-        "cspell": "8.15.2"
+        "cspell": "6.12.2"
     }
 
 
