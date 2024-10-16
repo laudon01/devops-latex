@@ -5,14 +5,9 @@
     "dependencies": {
         "@cspell/dict-pl_pl": "^2.0.1",
         "@cspell/dict-latex": "^2.0.9",
-        "@cspell/dict-software-terms": "2.2.12",
-        "@cspell/dict-golang": "6.0.16",
-        "@cspell/dict-python": "4.2.11",
-        "cspell": "6.12.2"
+        "@cspell/dict-python": "^4.2.11",
+        "@cspell/dict-software-terms": "^2.2.12",
+        "cspell": "^6.12.2"
     }
-
-
-
-
 
 }
