@@ -1,0 +1,16 @@
+{
+        "allowCompoundWords": true,
+        "dictionaries": [
+            "pl_pl",
+            "python",
+            "golang",
+            "softwareTerms",
+            "latex"
+        ],
+
+        "ignorePaths" :[],
+        "language": "pl, en",
+        "words": []
+
+
+}
